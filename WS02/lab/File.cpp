@@ -8,7 +8,7 @@
 //    To be completed by students
 // Revision History
 // -----------------------------------------------------------
-// Name            Date            Reason
+// Cristhian Rosero            9/19/2023
 ***********************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>

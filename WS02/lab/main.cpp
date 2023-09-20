@@ -8,7 +8,7 @@
 //
 // Revision History
 // -----------------------------------------------------------
-// Name            Date            Reason
+// Cristhian Rosero            9/19/2023
 ***********************************************************************/
 #include "Employee.h"
 using namespace sdds;
