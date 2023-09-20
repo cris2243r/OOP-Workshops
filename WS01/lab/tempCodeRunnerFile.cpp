@@ -1,15 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop #1 lab
-//
-// File  w1p1.cpp
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Cristhian Rosero            Sep-11-2023           
-***********************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
 #include <iostream>
@@ -19,7 +7,6 @@ const int MAX_NO_OF_WORDS = 500;
 const int SORT_BY_OCCURANCE = 1;
 const int SORT_ALPHABETICALLY = 0;
 using namespace std;
-
 struct Word {
    char letters[MAX_WORD_LEN];
    int count;
