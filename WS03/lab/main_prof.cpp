@@ -1,14 +1,14 @@
 /***********************************************************************
 // OOP244 Workshop #3 lab (part 1): tester program
 //
-// File  main.cpp
+// File  main_prof.cpp
 // Version 1.0
 // Author   Cornel Barna, Fardad Soleimanloo
 // Description
 //
 // Revision History
 // -----------------------------------------------------------
-// Cristhian Rosero         09/25/2023          Reason
+// Name                 Date            Reason
 ***********************************************************************/
 
 #include <iostream>
@@ -16,7 +16,6 @@
 #include <iomanip>
 using namespace std;
 #include "Train.h"
-
 using namespace sdds;
 
 int main() {
@@ -45,7 +44,7 @@ int main() {
 	}
 	cout << "----------------------------------------" << endl << endl;
 
-	
+	//
 	cout << "----------------------------------------" << endl;
 	cout << "2. Testing the display function." << endl;
 	cout << "----------------------------------------" << endl;
